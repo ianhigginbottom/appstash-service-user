@@ -6,6 +6,7 @@ description: "Central user service"
 vcsroot: "https://travis-ci.org/ianhigginbottom/appstash-service-user/"
 lifecycle: production
 tags:
+  - PIVIO
   - Java9
   - Oracle
 links:
